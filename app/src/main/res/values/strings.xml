@@ -1,6 +1,4 @@
 <resources>
     <string name="app_name">Candy Coded</string>
     <string name="products_title">Products</string>
-    <string name="geo_address">geo:0,0?q=618 E South St Orlando, FL 32801</string>
-    <string name="geo_package">com.google.android.apps.maps</string>
 </resources>
